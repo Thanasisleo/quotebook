@@ -1,0 +1,22 @@
+#Terminal Commands
+
+pwd -- Print Working Directory
+ls -- Short Listing
+cd -- Change Directory
+cd .. -- Change to the parent directory
+
+mkdir -- Make Directory
+
+#Git Commands
+
+git init
+git status
+git add
+git commit
+git log
+
+git revert
+git reset
+
+git branch
+git checkout

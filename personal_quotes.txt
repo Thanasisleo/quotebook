@@ -1,8 +1,5 @@
 I want to be the master - Thanasis
 
-<<<<<<< HEAD
-
-Live long and prosper
-=======
 This is a new line, get it.
->>>>>>> personal_quotes
+
+this is a new line. for the git diff to register

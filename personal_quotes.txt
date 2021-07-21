@@ -3,3 +3,5 @@ I want to be the master - Thanasis
 This is a new line, get it.
 
 this is a new line. for the git diff to register
+
+the best way to create the future is to live it - Thanasis
